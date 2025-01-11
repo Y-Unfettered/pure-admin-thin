@@ -8,4 +8,4 @@ LemonBlog 后台管理是基于 [vue-pure-admin]进行二次开发的
 
 ## 预览
 
-[查看预览](lemonyao.top)
+[查看预览](http://lemonyao.top)
